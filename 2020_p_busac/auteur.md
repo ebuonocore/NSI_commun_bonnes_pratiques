@@ -6,9 +6,7 @@ Chaque langage dispose de ces propres préconisations.
 
 En Python, on suit le [PEP8](https://www.python.org/dev/peps/pep-0008/). (C'est un peu long et en anglais)
 Ce n'est pas au programme de NSI (Ni en première, ni en terminale) mais il certainement intéressant pour vous d'en prendre connaissance et de commencer dès à présent à confronter vos productions à des [validateurs de code](http://pep8online.com/) (ou linter), pour assimiler un certain nombre de bonnes pratiques.
-Un enseignant de NSI (P. Busac) à proposé des fiches de synthèse à destination des élèves de NSI. A quelques coquilles prêts, ils sont très intéressants (plus court que le PEP8 officiel et en français). Je vous invite à les lire:
-[https://github.com/ebuonocore/NSI_commun_bonnes_pratiques/tree/main/2020_p_busac](https://github.com/ebuonocore/NSI_commun_bonnes_pratiques/tree/main/2020_p_busac
-]
+Un enseignant de NSI (P. Busac) à proposé des fiches de synthèse à destination des élèves de NSI. A quelques coquilles prêts, ils sont très intéressants (plus court que le PEP8 officiel et en français). [Je vous invite à les lire](https://github.com/ebuonocore/NSI_commun_bonnes_pratiques/tree/main/2020_p_busac)
 
 Liens:
 PEP8: https://www.python.org/dev/peps/pep-0008/  
