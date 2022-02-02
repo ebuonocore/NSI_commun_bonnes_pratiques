@@ -1,7 +1,7 @@
-**Auteur**
+**Auteur**  
 Fiches proposées par P.BUSAC <bumath@free.fr> juin 2020
 
-**Commentaires**
+**Commentaires**  
 Pour nous aider dans la conception de programme, de façon à ce qu'ils soient faciles à maintenir, à lire et à modifier par d'autres personnes, les programmeurs s'obligent tant que possible à suivre certaines règles de style.
 Cela concerne par exemple les noms de variables, de fonctions, la taille des fonctions, le nombre de caractères d'une ligne.
 Chaque langage dispose de ces propres préconisations.
