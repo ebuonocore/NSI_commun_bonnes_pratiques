@@ -11,7 +11,7 @@ En Python, on suit le [PEP8](https://www.python.org/dev/peps/pep-0008/). (C'est 
 Un enseignant de NSI (P. Busac) à proposé des [fiches de synthèse à destination des élèves de NSI](https://github.com/ebuonocore/NSI_commun_bonnes_pratiques/tree/main/2020_p_busac).  
 A quelques coquilles prêts, ils sont très intéressants (plus court que le PEP8 officiel et en français). Je vous invite à les lire
 
-**Liens** 
+**Liens**  
 PEP8: https://www.python.org/dev/peps/pep-0008/  
 PEP8 online Check your code for PEP8 requirements: http://pep8online.com/
 Fiches de synthèse de P.Busac 2020: https://github.com/ebuonocore/NSI_commun_bonnes_pratiques/tree/main/2020_p_busac
