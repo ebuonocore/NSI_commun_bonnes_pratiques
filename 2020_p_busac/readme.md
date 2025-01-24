@@ -13,6 +13,6 @@ A quelques coquilles prêts, ils sont très intéressants (plus court que le PEP
 
 **Liens**  
 PEP8: https://www.python.org/dev/peps/pep-0008/  
-PEP8 online Check your code for PEP8 requirements: http://pep8online.com/
+PEP8 online Check your code for PEP8 requirements: [http://pep8online.com/](https://pyrfecter.com/)
 Fiches de synthèse de P.Busac 2020: https://github.com/ebuonocore/NSI_commun_bonnes_pratiques/tree/main/2020_p_busac
 
